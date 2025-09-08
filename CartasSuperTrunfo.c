@@ -2,10 +2,10 @@
 
 int main() {
     // Variáveis da carta 1
-    int populacao1, pib1, pontosTuristicos1;
+    char populacao1, pib1, pontosTuristicos1;
 
     // Variáveis da carta 2
-    int populacao2, pib2, pontosTuristicos2;
+    char populacao2, pib2, pontosTuristicos2;
 
     printf("=== SUPER TRUNFO SIMPLES ===\n\n");
 
